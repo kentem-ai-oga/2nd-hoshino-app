@@ -27,7 +27,7 @@ export default function RootLayout({
           <p className="text-gray-400">
             Pokemon Omikuji | Created by{" "}
             <a className="underline" href="#">
-              @kazzyfrog
+              @oga-aiichiro
             </a>
           </p>
         </footer>

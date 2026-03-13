@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-[90vh] relative">
       <h1 className="text-4xl md:text-6xl font-bold mb-8 text-center bg-clip-text text-transparent bg-gradient-to-r from-red-600 to-yellow-600">
-        ポケモンおみくじ 2025
+        ポケモンおみくじ 2026
       </h1>
       <p className="text-lg mb-12 text-center text-gray-600 dark:text-gray-300">
         運命のポケモンと出会い、日常をヒントを得ましょう。
